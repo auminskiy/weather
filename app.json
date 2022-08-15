@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "weatherApp",
+    "slug": "weatherApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/apple-touch-icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/apple-touch-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "deeplowdoc.site",
+      "versionCode": 1,
+      "permissions":["LOCATION"],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/apple-touch-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/apple-touch-icon.png"
+    }
+  }
+}
