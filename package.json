@@ -28,8 +28,12 @@
     "react-native-status-bar-height": "^2.6.0",
     "react-native-svg": "12.3.0",
     "react-native-svg-transformer": "^1.0.0",
+<<<<<<< HEAD
     "react-native-web": "0.17.7",
     "expo-updates": "~0.13.4"
+=======
+    "react-native-web": "0.17.7"
+>>>>>>> ebe7c75332d6dd448fcaafc1cc381444701545f1
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
